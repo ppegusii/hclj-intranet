@@ -1,0 +1,18 @@
+table {
+  border-collapse       : collapse;
+}
+table,th,td {
+  border                : 1px solid black;
+}
+th {
+  background-color      : #808080;
+}
+td {
+  background-color      : #D0D0D0;
+}
+button:disabled {
+  background            : #FFE6E6;
+}
+button {
+  background            : #B2E0C2;
+}
